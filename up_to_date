@@ -1,0 +1,4 @@
+commands use to get all changes of the main branch locally are as follows:
+1.git checkout main
+2.git fetch origin
+3.git merge origin/main
